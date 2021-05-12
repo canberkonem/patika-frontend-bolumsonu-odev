@@ -1,0 +1,1 @@
+Patika.dev Front-end Eğitimi HTML bölüm sonu ödevidir.
